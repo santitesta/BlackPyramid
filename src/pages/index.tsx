@@ -13,7 +13,7 @@ import ContactSection from "../components/ContactSection";
 import Footer from "../components/Footer";
 import DevelopmentBanner from "../components/DevelopmentBanner";
 
-const banner = true;
+const banner = false;
 
 export default function Home() {
   if (banner) return <DevelopmentBanner companyName="BlackPyramid" />;
