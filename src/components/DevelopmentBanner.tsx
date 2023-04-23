@@ -22,7 +22,7 @@ const DevelopmentBanner: React.FC<DevelopmentBannerProps> = ({
           improvement solutions using state of the art technologies like AI.
         </p>
         <p className="text-white text-xl mt-4">
-          Our website is currently under development, but we'll be launching
+          Our website is currently under development, but we&apos;ll be launching
           soon. Stay tuned!
         </p>
       </div>

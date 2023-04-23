@@ -36,7 +36,7 @@ const FeaturesSection = () => {
         <div className="text-center mb-10">
           <h2 className="text-4xl font-bold mb-4">Features</h2>
           <p className="text-lg">
-            A brief description of your startup's key features.
+            A brief description of your startup&apos;s key features.
           </p>
         </div>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">

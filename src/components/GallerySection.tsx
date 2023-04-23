@@ -37,7 +37,7 @@ const GallerySection = () => {
         <div className="text-center mb-10">
           <h2 className="text-4xl font-bold mb-4">Gallery</h2>
           <p className="text-lg">
-            A showcase of our startup's recent projects or events.
+            A showcase of our startup&apos;s recent projects or events.
           </p>
         </div>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
